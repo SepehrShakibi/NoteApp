@@ -1,0 +1,4 @@
+enum MenuAction {
+  shareNote,
+  deleteNote,
+}
